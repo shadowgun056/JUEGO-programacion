@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1527196510 source:c:\users\internet\desktop\juego progra ver 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
